@@ -7,7 +7,6 @@
 1)apt install git                                                                                   
 2)git clone https://github.com/versaker/bljam                                                         
 3)cd bljam                                                                                           
-4)sh install.sh                                                                                      
 5)python bljam.py                                                                                   
 ---------------All                                                                                   
 При донатах на данный киви кошелек проект продолжит развиваться : 89854359534                         
